@@ -21,3 +21,4 @@ build/
 
 # Ignore TypeScript build info files
 *.tsbuildinfo
+.vercel
