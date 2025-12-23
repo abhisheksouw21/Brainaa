@@ -1,6 +1,6 @@
-**Deployment Link <https://souwbrainly.vercel.app/>**
-**Backend Link <https://brainlybackend.vercel.app/>**
-**Brainly**
+**Deployment:** https://souwbrainly.vercel.app  
+**Backend:** https://brainlybackend.vercel.app
+
 =====================
 
 **Project Overview**
