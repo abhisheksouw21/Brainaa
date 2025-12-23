@@ -11,13 +11,13 @@ export default function Footer() {
                     <div className="flex flex-col md:flex-row justify-between items-center">
                         <div className="mb-4 md:mb-0">
                             <p className="text-muted-foreground text-sm">
-                                © {currentYear} <a href="https://basharkhan.in" className="text-primary font-semibold" target="_blank" rel="noopener noreferrer">basharkhan.in</a>. All rights reserved.
+                                © {currentYear} Abhishek Souw. All rights reserved.
                             </p>
                         </div>
 
                         <div className="flex items-center space-x-6">
                             <a
-                                href="https://github.com/Basharkhan7776"
+                                href="https://github.com/abhishekchoudhary35648-maker"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="text-muted-foreground hover:text-accent transition-colors"
@@ -26,7 +26,7 @@ export default function Footer() {
                                 <GithubIcon size={18} />
                             </a>
                             <a
-                                href="https://www.linkedin.com/in/bashar-khan-ba2564291/"
+                                href="https://in.linkedin.com/in/abhisheksouw"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="text-muted-foreground hover:text-accent transition-colors"
@@ -35,7 +35,7 @@ export default function Footer() {
                                 <LinkedinIcon size={18} />
                             </a>
                             <a
-                                href="https://twitter.com/_Bashar_khan_"
+                                href="https://x.com/Abhishe65455420"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="text-muted-foreground hover:text-accent transition-colors"

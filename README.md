@@ -19,7 +19,7 @@ Brainly is a web application designed to help users organize and share their kno
 
 ### Clone the Repository
 
-`git clone https://github.com/Basharkhan7776/Brainly.git`
+`git clone https://github.com/abhishekchoudhary35648-maker/Brainly.git`
 
 ### Navigate to the Project Directory
 
@@ -85,4 +85,4 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 **Acknowledgments**
 ------------------
 
-* [Bashar Khan](https://github.com/Basharkhan7776) - Project maintainer and contributor
+* [Abhishek Souw](https://github.com/abhishekchoudhary35648-maker) - Project maintainer and contributor

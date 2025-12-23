@@ -76,7 +76,7 @@ const Dashboard = () => {
             {
               _id: "3",
               type: 'tweet' as const,
-              link: 'https://x.com/_Bashar_khan_/status/1926883300410306980',
+              link: 'https://x.com/Abhishe65455420',
               title: 'Insights on Personal Knowledge Management',
               tags: ['productivity', 'PKM']
             },
@@ -105,7 +105,7 @@ const Dashboard = () => {
             {
               _id: "7",
               type: 'tweet' as const,
-              link: 'https://x.com/_Bashar_khan_/status/1926883300410306980',
+              link: 'https://x.com/Abhishe65455420',
               title: 'Insights on Personal Knowledge Management',
               tags: ['productivity', 'PKM']
             }
